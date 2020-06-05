@@ -8,3 +8,6 @@
 
 [Lecture](https://www.youtube.com/watch?v=4JQR9k2OXcw&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8&index=3) | [Coding Tutorial](https://www.youtube.com/watch?v=hPr-TufXbew&list=PLL2uuAdM_Xwy1WjZVi_tBzYoOJdOugeui) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Polynomial%20Curve%20Fitting.ipynb)
 
+### *1.2 Probability Theory* 
+[Lecture][Coding Practice][Code]
+
