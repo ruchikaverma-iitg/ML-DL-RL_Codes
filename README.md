@@ -10,5 +10,5 @@
 
 ### *1.2 Probability Theory* 
 
-[Lecture 1](https://www.youtube.com/watch?v=dqQ5wt_psn0) and [2] (https://www.youtube.com/watch?v=RLBKtZQ5440&t=2s) | [Coding Practice] | [Code]
+[Lecture 1](https://www.youtube.com/watch?v=dqQ5wt_psn0) and [2](https://www.youtube.com/watch?v=RLBKtZQ5440&t=2s) | [Coding Practice] | [Code]
 
