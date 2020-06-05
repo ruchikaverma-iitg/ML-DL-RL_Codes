@@ -1,5 +1,5 @@
 # [Machine_Learning_Youtube_Channel](https://www.youtube.com/channel/UCOeCHYu0CAN_3FrWYd5w3Hw?view_as=subscriber) 
-### [Channel Introduction by Ruchika Verma and Neeraj Kumar](https://www.youtube.com/watch?v=n4fcPyWKrAo)
+### Channel [Introduction](https://www.youtube.com/watch?v=n4fcPyWKrAo) by Ruchika Verma and Neeraj Kumar
 
 ## Topics covered as per the [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/1)
 ## **Chapter 1: [Introduction to Machine Learning](https://www.youtube.com/watch?v=9nBQbbCdVjg&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8)**
