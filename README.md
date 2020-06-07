@@ -1,18 +1,19 @@
 shorturl.at/eKQZ1
 
-# [Machine Learning Youtube Channel](https://www.youtube.com/channel/UCOeCHYu0CAN_3FrWYd5w3Hw?view_as=subscriber) 
+# [Machine Learning YouTube Channel](https://www.youtube.com/channel/UCOeCHYu0CAN_3FrWYd5w3Hw?view_as=subscriber) 
 This reporsitory contains the codes and links to videos explaining the theoretical concepts and Python implementations of various machine learning algorithms we discuss through our YouTube channel.
 
 To watch the channel introduction video, please click [here](https://www.youtube.com/watch?v=n4fcPyWKrAo).
 
 [Dr. Neeraj Kumar](https://neerajkumarvaid.weebly.com/) - He develops machine learning algorithms (DL, traditional ML algorithms, Computer Vision, and NLP) to solve research problems at the intersection of computational pathology, medical image analysis, healthcare, and genomic data analysis. He has a Ph.D. in Electrical Engineering (specializing in machine learning) and is skilled in popular machine/deep learning libraries.
 
+[Ruchika Verma](https://ruchika-verma.weebly.com/) -
 
 ###
 
-### Channel [Introduction](https://www.youtube.com/watch?v=n4fcPyWKrAo) - Theoretical topics are covered by Dr. Neeraj Kumar and Coding tutorials are taken by Ruchika Verma
+### Theoretical topics are covered by Dr. Neeraj Kumar and Coding tutorials are from Ruchika Verma.
 
-## Topics covered as per the [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+Topics covered as per the [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 ## **Chapter 1: [Introduction](https://www.youtube.com/watch?v=9nBQbbCdVjg&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8)**
 
 #### *1.1 Polynomial Curve Fitting* 
