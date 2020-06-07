@@ -1,3 +1,5 @@
+shorturl.at/eKQZ1
+
 # [Machine_Learning_Youtube_Channel](https://www.youtube.com/channel/UCOeCHYu0CAN_3FrWYd5w3Hw?view_as=subscriber) 
 ### Channel [Introduction](https://www.youtube.com/watch?v=n4fcPyWKrAo) - Theoretical topics are covered by Dr. Neeraj Kumar and Coding tutorials are taken by Ruchika Verma
 
