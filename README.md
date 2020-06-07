@@ -1,7 +1,7 @@
 shorturl.at/eKQZ1
 
 # [Machine Learning YouTube Channel](https://www.youtube.com/channel/UCOeCHYu0CAN_3FrWYd5w3Hw?view_as=subscriber) 
-This reporsitory contains the codes and links to videos explaining the theoretical concepts and Python implementations of various machine learning algorithms we discuss through our YouTube channel.
+This repository contains the codes and links to videos explaining the theoretical concepts and Python implementations of various machine learning algorithms we discuss through our YouTube channel.
 
 To watch the channel introduction video, please click [here](https://www.youtube.com/watch?v=n4fcPyWKrAo).
 
