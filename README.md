@@ -11,7 +11,7 @@ To watch the channel introduction video, please click [here](https://www.youtube
 
 ###
 
-### Theoretical topics are covered by Dr. Neeraj Kumar and Coding tutorials are from Ruchika Verma.
+### Theoretical topics are covered by Dr. Neeraj Kumar and Coding tutorials by Ruchika Verma.
 
 Topics covered as per the [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 ## **Chapter 1: [Introduction](https://www.youtube.com/watch?v=9nBQbbCdVjg&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8)**
