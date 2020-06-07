@@ -7,5 +7,5 @@ Topics covered as per the [Pattern Recognition and Machine Learning by Christoph
 
 #### *1.2 Probability Theory* 
 
-[Lecture 1](https://www.youtube.com/watch?v=dqQ5wt_psn0) & [2](https://www.youtube.com/watch?v=RLBKtZQ5440&t=2s) | Coding Tutorial | Code
+[Lecture 1](https://www.youtube.com/watch?v=dqQ5wt_psn0) & [2](https://www.youtube.com/watch?v=RLBKtZQ5440&t=2s) | Coding Tutorial | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Probability%20Distribution.ipynb)
 
