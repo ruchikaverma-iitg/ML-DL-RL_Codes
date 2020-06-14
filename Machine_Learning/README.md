@@ -1,4 +1,4 @@
-Topics covered as per the [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 ## **Chapter 1: [Introduction](https://www.youtube.com/watch?v=9nBQbbCdVjg&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8)**
 
 #### *1.1 Polynomial Curve Fitting* 
