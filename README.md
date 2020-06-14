@@ -15,4 +15,4 @@ We used Python 3.7 to code these algorithms.
 
 | **S.No.**| **File name** | **Description** |
 | :-------------: | ------------- | ------------- |
-|1| [Machine Learning](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/tree/master/Machine_Learning)  | Videos covering theoretica concepts and Python implementations of various machine learning algorithms expalined in PRML book by Christopher Bishop.  |
+|1| [Machine Learning](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/tree/master/Machine_Learning)  | Videos covering theoretical concepts and Python implementations of various machine learning algorithms expalined in the book [Patter Recognition and Machine Learning by Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/).  |
