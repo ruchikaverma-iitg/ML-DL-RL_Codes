@@ -5,10 +5,10 @@ Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](h
 
 [Lecture](https://www.youtube.com/watch?v=4JQR9k2OXcw&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8&index=3) | [Coding Tutorial](https://www.youtube.com/watch?v=hPr-TufXbew&list=PLL2uuAdM_Xwy1WjZVi_tBzYoOJdOugeui) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb)
 
-#### *1.2 Probability Theory* 
+#### *1.2.1-1.2.4 Probability Theory* 
 
 [Lecture 1](https://www.youtube.com/watch?v=dqQ5wt_psn0) & [2](https://www.youtube.com/watch?v=RLBKtZQ5440&t=2s) | [Coding Tutorial](https://www.youtube.com/watch?v=YY-TzetOXRU) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Probability%20Distribution.ipynb)
 
-#### *1.2.5-1.2.6 Bayesian Curve Fitting
+#### *1.2.5-1.2.6 Bayesian Curve Fitting*
 [Lecture](https://www.youtube.com/watch?v=Ob5w5WsWExQ) | [Coding Tutorial](https://www.youtube.com/watch?v=q6XRCIkHJa8) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Bayesian%20Curve%20Fitting.ipynb)
 
