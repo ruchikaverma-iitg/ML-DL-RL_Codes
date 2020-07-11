@@ -1,5 +1,5 @@
 Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-## **Chapter 1: [Introduction]**
+## **Chapter 1: Introduction**
 
 #### *1.1 Polynomial Curve Fitting* 
 
