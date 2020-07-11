@@ -12,3 +12,6 @@ Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](h
 #### *1.2.5-1.2.6 Bayesian Curve Fitting*
 [Lecture](https://www.youtube.com/watch?v=Ob5w5WsWExQ) | [Coding Tutorial](https://www.youtube.com/watch?v=q6XRCIkHJa8) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Bayesian%20Curve%20Fitting.ipynb)
 
+#### *1.3-1.4 Model Selection and Curse of Dimensionality*
+[Lecture](https://www.youtube.com/watch?v=-uf9SQKwFNc) | [Coding Tutorial](https://www.youtube.com/watch?v=q6XRCIkHJa8) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/ModelSelection_CurseOfDimensionality.ipynb)
+
