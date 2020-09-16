@@ -7,7 +7,7 @@
 | 1 | [Linear Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L1-Reg-Simple-Linear-Regression.ipynb) | Simple linear regression using data of a csv file.|
 
 
-* Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+## * Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 
 | **S.No.**| **File name** | **Description** |
 | ----|--------|-------------|
