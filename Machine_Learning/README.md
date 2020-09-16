@@ -12,4 +12,4 @@ Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](h
 Solutions of programming assignments of [Machine Learning with Python by IBM](https://www.coursera.org/learn/machine-learning-with-python/home/welcome)
 | **S.No.**| **File name** | **Description** |
 | ----|--------|-------------|
-| 1 | [Linear Regression](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb) | Simple linear regression using data of a csv file.|
+| 1 | [Linear Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L1-Reg-Simple-Linear-Regression.ipynb) | Simple linear regression using data of a csv file.|
