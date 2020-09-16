@@ -13,4 +13,4 @@
 
 | **S.No.**| **File name** | **Description** |
 | ----|--------|-------------|
-| 1 | [Linear Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L1-Simple-Linear-Regression.ipynb) | Simple linear regression using dataframes.|
+| 1 | [Linear Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L1-Simple-Linear-Regression.ipynb) | Simple linear regression using an independent variable from the data obtained from a csv file.|
