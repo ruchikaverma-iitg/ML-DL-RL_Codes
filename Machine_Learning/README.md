@@ -15,3 +15,4 @@
 | ----|--------|-------------|
 | 1 | [Simple_Linear_Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L1-Simple-Linear-Regression.ipynb) | Simple linear regression using an independent variable from the data obtained from a csv file.|
 | 2 | [Multiple_Linear_Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L2-Mulitple-Linear-Regression.ipynb) | Multiple linear regression using more than one independent variable from the data obtained from a csv file.|
+| 3 | [Polynomial_Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L3-Polynomial-Regression.ipynb) | Polynomial regression where the relationship between the independent variable x and the dependent variable y is modeled as an nth degree polynomial.|
