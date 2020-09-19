@@ -19,3 +19,4 @@
 | 4 | [Non_Linear_Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L4-NonLinearRegression.ipynb) | Non-linear least squares to fit sigmoid function and to optimize parameters to fit a given data.|
 | 5 | [K_Nearest_Neighbors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L5-K-Nearest-neighbors.ipynb) | Building a K Nearest Neighbor classifier to predict the class of unknown cases.|
 | 6 | [Decision_Trees](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L6-Decision-Trees.ipynb) | Visualization and training of a decision tree to predict a proper drug for a patient based on different features.|
+| 7 | [Losistic_Regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/L7-Logistic-Regression.ipynb) | Lositic regression on telecommunications dataset for predicting customer churn.|
