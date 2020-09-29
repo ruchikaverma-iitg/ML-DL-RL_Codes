@@ -15,3 +15,4 @@
 | ---------- |--------- | ------------------------------------------------| 
 |1|[Forward_Propagation](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1-Forward-Propagation.ipynb)|An example code to demonstrate how a neural network performs predictions using forward propagation|
 |2|[Regression_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L2-Regression-with-Keras.ipynb)|Building a neural network for a regression problem|
+|3|[Classification_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L3-Classification-with-Keras.ipynb)|Building a neural network for a classification problem using MNIST dataset|
