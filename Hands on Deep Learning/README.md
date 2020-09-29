@@ -1,6 +1,6 @@
 # Deep-Learning - This repository contains codes to train deep learning frameworks for different applications.
 
-
+Deep Learning using Fastai
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
 |1|[Pet_breed_classification](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Pet_breed_classification.ipynb)|Code to train Resnet-34 and Resnet-50 models for cat vs. dog breed classification problem. This code includes 1-cycle learning rate adaptation policy and did classification on 37 breeds.|
