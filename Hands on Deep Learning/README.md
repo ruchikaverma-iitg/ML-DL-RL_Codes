@@ -9,3 +9,5 @@
 |4|[SGD_linear_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/SGD_linear_regression.ipynb)|Stochastic gradient descent on regression problem.|
 |5|[Multi-label prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Multi-label%20prediction.ipynb)|Multi-label prediction using Resnet-50 model on Planet Amazon dataset obtained from [Kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space).|
 |6|[Image_Segmentation](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Image_Segmentation.ipynb)|Image segmentation using U-Net and with Resnet-18 enncoder on Camvid dataset.|
+
+## Notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
