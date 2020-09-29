@@ -1,5 +1,5 @@
-# Deep-Learning
-This repository contains codes that I write to train deep learning frameworks for different applications.
+# Deep-Learning - This repository contains codes to train deep learning frameworks for different applications.
+
 
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
