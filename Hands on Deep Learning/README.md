@@ -17,7 +17,7 @@
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
 |1|[1D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1_1D_tensors.ipynb)| Basic operations on 1D tensors|
-
+|2|[2D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L2_Two-Dimensional_Tensors.ipynb)| Basic operations on 2D tensors|
 
 
 
