@@ -16,7 +16,7 @@
 ## Notebooks of [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/home/welcome)
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
-|1|[L1_1D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1_1D_tensors.ipynb)| Basic operations on 1D tensors|
+|1|[1D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1_1D_tensors.ipynb)| Basic operations on 1D tensors|
 
 
 
