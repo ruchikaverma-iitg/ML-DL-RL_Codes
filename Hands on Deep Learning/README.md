@@ -18,7 +18,7 @@
 | ---------- |--------- | ------------------------------------------------| 
 |1|[1D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1_1D_tensors.ipynb)| Basic operations on 1D tensors|
 |2|[2D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L2_Two-Dimensional_Tensors.ipynb)| Basic operations on 2D tensors|
-
+|3|[Derivatives](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L3_derivativesandGraphsinPytorch.ipynb)| Derivatives in Pytorch|
 
 
 ## Notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
