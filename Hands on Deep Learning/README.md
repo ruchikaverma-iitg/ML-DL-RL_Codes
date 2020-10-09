@@ -20,7 +20,7 @@
 |2|[2D_tensors](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L2_Two-Dimensional_Tensors.ipynb)| Basic operations on 2D tensors|
 |3|[Derivatives](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L3_derivativesandGraphsinPytorch.ipynb)| Derivatives in Pytorch|
 |4|[Toy_dataset](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L4_simple_data_set.ipynb)| Creating a toy dataset in Pytorch, compose and perform transformations on it|
-|5|[Datasets_and_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L5_Datasets_and_transforms.ipynb)| Build an image dataset object and perform pre-build transformations using torchvision.transforms to the dataset.|
+|5|[Datasets_and_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L5_Datasets_and_transforms.ipynb)| Build an image dataset object and perform pre-build transformations using torchvision.transforms on it|
 
 ## Notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
