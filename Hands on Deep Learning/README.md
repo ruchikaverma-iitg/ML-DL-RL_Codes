@@ -23,6 +23,7 @@
 |5|[Datasets_and_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L5_Datasets_and_transforms.ipynb)| Build an image dataset object and perform pre-build transformations using torchvision.transforms on it|
 |6|[MNIST_data_&_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L6_pre-Built%20Datasets_and_transforms.ipynb)| How to use pre-built MNIST dataset and perform transformations on it|
 |7|[Regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L7_prediction_on_1D_input.ipynb)| Make predictions for multiple 1D inputs using linear class|
+|8|[linear_regression_1D](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L8_linear_regression_one_parameter.ipynb)| Create linear regression model on 1D, cost/criterion function using MSE, and plot parameters and loss values|
 
 ## Notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
