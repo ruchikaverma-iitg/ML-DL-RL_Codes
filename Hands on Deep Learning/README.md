@@ -21,7 +21,8 @@
 |3|[Derivatives](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L3_derivativesandGraphsinPytorch.ipynb)| Derivatives in Pytorch|
 |4|[Toy_dataset](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L4_simple_data_set.ipynb)| Creating a toy dataset in Pytorch, compose and perform transformations on it|
 |5|[Datasets_and_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L5_Datasets_and_transforms.ipynb)| Build an image dataset object and perform pre-build transformations using torchvision.transforms on it|
-|5|[MNIST_data_&_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L6_pre-Built%20Datasets_and_transforms.ipynb)| How to use pre-built MNIST dataset and perform transformations on it|
+|6|[MNIST_data_&_transforms](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L6_pre-Built%20Datasets_and_transforms.ipynb)| How to use pre-built MNIST dataset and perform transformations on it|
+|7|[Regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L7_prediction_on_1D_input.ipynb)| Make predictions for multiple 1D inputs using linear class|
 
 ## Notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
