@@ -32,6 +32,7 @@
 |14|[Multiple_linear_regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L14_multiple_linear_regression_prediction.ipynb)| Multiple linear regression prediction (preparing forward propagation with 1xn tensor input)|
 |15|[Multiple_linear_regression_training](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L15_multiple_linear_regression_training.ipynb)| Multiple linear regression training with input of 1xn tensor|
 |16|[Multi_target_linear_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L16_multi-target_linear_regression.ipynb)| Multiple target linear regression prediction (forward propagation)|
+|17|[training_multiple_output_linear_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L17_training_multiple_output_linear_regression.ipynb)| pytorch build in functions to train multiple target linear regression|
 
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
