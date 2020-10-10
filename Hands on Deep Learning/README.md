@@ -26,7 +26,7 @@
 |8|[1D_Linear_regression_1_parameter](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L8_linear_regression_one_parameter.ipynb)| Create linear regression model using 1 parameter, cost/criterion function using MSE, and plot parameters as well as loss values|
 |9|[1D_Linear_regression_2_parameters](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L9_training_slope_and_bias.ipynb)| 1D Linear regression model using 2 parameters (w and b). Visualize the data space and the parameter space during training via batch gradient descent|
 |10|[Stochastic_gradient_descent](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L10_stochastic_gradient_descent.ipynb)| 1D Linear regression using stochastic gradient descent|
-|11|[Mini_batch_gradient_descent](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L10_stochastic_gradient_descent.ipynb)| 1D Linear regression using mini-batch gradient descent. This code also includes comparison between batch, stochastic and mini-batch gradient descent with different batch sizes|
+|11|[Mini_batch_gradient_descent](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L11_mini-batch_gradient_descent.ipynb)| 1D Linear regression using mini-batch gradient descent. This code also includes comparison between batch, stochastic and mini-batch gradient descent with different batch sizes|
 
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
