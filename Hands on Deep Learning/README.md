@@ -28,6 +28,7 @@
 |10|[Stochastic_gradient_descent](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L10_stochastic_gradient_descent.ipynb)| 1D Linear regression using stochastic gradient descent|
 |11|[Mini_batch_gradient_descent](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L11_mini-batch_gradient_descent.ipynb)| 1D Linear regression using mini-batch gradient descent. This code also includes comparison between batch, stochastic and mini-batch gradient descent with different batch sizes|
 |12|[Mini_batch_gradient_descent2](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L12_PyTorchway.ipynb)| 1D Linear regression using  PyTorch build-in functions|
+|13|[Models_with_different_LR](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L13_Models_with_different_LR.ipynb)| 1D Linear regression with different learning rates and view results such as training and validation losses at different LR|
 
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
