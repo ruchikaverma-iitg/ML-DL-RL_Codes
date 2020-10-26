@@ -39,7 +39,7 @@
 |21|[predicting_MNIST_using_Softmax](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L21_predicting_MNIST_using_Softmax.ipynb)| Classify handwritten digits from the MNIST database by using Softmax classifier and visualize parameters learned for each class following model training|
 |22|[simpleNN_1hiddenlayer](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L22_simpleNN_1hiddenlayer.ipynb)| Simple Neural Network with 1 hidden layer|
 |23|[NN_more_hidden_neurons](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L23_NN_more_hidden_neurons.ipynb)| Neural Network with 1 hidden layer (more neurons)|
-|24|[Neural_network](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L24_Neural_network.ipynb)| Building a single hidden layer  neural network with 1 hidden layer to classify noisy XOR data|
+|24|[Neural_network](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L24_Neural_network.ipynb)| Building a neural network with 1 hidden layer to classify noisy XOR data|
 
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
