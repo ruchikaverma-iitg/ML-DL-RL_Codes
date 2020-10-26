@@ -33,4 +33,4 @@
 |29|[Deeper_Neural_Networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L29_Deeper_Neural_Networks.ipynb)| Deep Neural Networks with 3 hidden layers using nn.ModuleList()|
 |30|[Dropout_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L30_dropout_prediction.ipynb)| Deep Neural Networks with dropout for classification|
 |31|[Dropout_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L31_dropout_Regression.ipynb)| Using dropout in regression|
-
+|32|[Weight_initialization](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L32_weight_initialization.ipynb)| Comparison of neural networks performance with constant(w = 1) vs. default weight initialization|
