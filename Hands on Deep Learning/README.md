@@ -44,7 +44,8 @@
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
-|1|[Forward_Propagation](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L1-Forward-Propagation.ipynb)|An example code to demonstrate how a neural network performs predictions using forward propagation|
-|2|[Regression_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L2-Regression-with-Keras.ipynb)|Building a neural network for a regression problem|
-|3|[Classification_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L3-Classification-with-Keras.ipynb)|Building a neural network for a classification problem using MNIST dataset|
-|4|[Convolutional_Neural_Networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L4-Convolutional-Neural-Networks-with-Keras.ipynb)|Building a convolutional neural network with user defined convolutional and pooling layers|
+|1|[Forward_Propagation](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/L1-Forward-Propagation.ipynb)|An example code to demonstrate how a neural network performs predictions using forward propagation|
+|2|[Regression_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/L2-Regression-with-Keras.ipynb)|Building a neural network for a regression problem|
+|3|[Classification_with_Keras](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/L3-Classification-with-Keras.ipynb)|Building a neural network for a classification problem using MNIST dataset|
+|4|[Convolutional_Neural_Networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/L4-Convolutional-Neural-Networks-with-Keras.ipynb)|Building a convolutional neural network with user defined convolutional and pooling layers|
+
