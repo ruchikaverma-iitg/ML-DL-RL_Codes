@@ -30,4 +30,5 @@
 |26|[Activation_function](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L26_activation_function.ipynb)| How to apply different Activation functions in Neural Network|
 |27|[Different_activations_on_neural_network](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L27_different_activations_on_neural_network.ipynb)| Apply different activation functions in Neural Network on the MNIST dataset|
 |28|[Deep_Neural_Networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L28_Deep_Neural_Networks.ipynb)| Deep Neural Networks with 2 hidden layers on the MNIST dataset|
+|28|[Deeper_Neural_Networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L29_Deeper_Neural_Networks.ipynb)| Deep Neural Networks with 3 hidden layers using nn.ModuleList()|
 
