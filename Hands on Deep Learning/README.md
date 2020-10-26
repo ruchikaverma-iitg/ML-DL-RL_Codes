@@ -36,8 +36,8 @@
 |18|[logistic_regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L18_logistic_regression_prediction.ipynb)| Prediction using sigmoid/logistic function|
 |19|[logistic_regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L19_Bad_initialization_logistic_regression_with_mean_square_error.ipynb)| Illustration of poor performance of logistic regression via bad parameters initialization|
 |20|[Softmax_in_1D](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L20_softmax_in_1D.ipynb)| Building a Softmax classifier in 1D|
-|20|[predicting_MNIST_using_Softmax](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L21_predicting_MNIST_using_Softmax.ipynb)| Classify handwritten digits from the MNIST database by using Softmax classifier and visualize parameters learned for each class following model training|
-
+|21|[predicting_MNIST_using_Softmax](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L21_predicting_MNIST_using_Softmax.ipynb)| Classify handwritten digits from the MNIST database by using Softmax classifier and visualize parameters learned for each class following model training|
+|22|[simpleNN_1hiddenlayer](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L22_simpleNN_1hiddenlayer.ipynb)| Simple Neural Network with 1 hidden layer|
 
 ## Ipython notebooks of [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 | # | **File name** |  **Description** |
