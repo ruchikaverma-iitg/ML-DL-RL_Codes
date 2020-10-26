@@ -34,7 +34,7 @@
 |16|[Multi_target_linear_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L16_multi-target_linear_regression.ipynb)| Multiple target linear regression prediction (forward propagation)|
 |17|[training_multiple_output_linear_regression](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L17_training_multiple_output_linear_regression.ipynb)| pytorch build in functions to train multiple target linear regression|
 |18|[logistic_regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L18_logistic_regression_prediction.ipynb)| Prediction using sigmoid/logistic function|
-|19|[logistic_regression_prediction](Bad_initialization_logistic_regression_with_mean_square_error)| Illustration of poor performance of logistic regression via bad parameters initialization|
+|19|[logistic_regression_prediction](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L19_Bad_initialization_logistic_regression_with_mean_square_error.ipynb)| Illustration of poor performance of logistic regression via bad parameters initialization|
 |20|[Softmax_in_1D](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/L20_softmax_in_1D.ipynb)| Building a Softmax classifier in 1D|
 
 
