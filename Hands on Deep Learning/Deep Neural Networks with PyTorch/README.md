@@ -27,3 +27,5 @@
 |23|[NN_more_hidden_neurons](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L23_NN_more_hidden_neurons.ipynb)| Neural Networks with 1 hidden layer (more neurons)|
 |24|[Neural_networks](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L24_Neural_network.ipynb)| Building a neural network with 1 hidden layer to classify noisy XOR data|
 |25|[1_layer_neural_network_MNIST](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L25_1layer_neural_network_MNIST.ipynb)| Neural networks with 1 hidden layer to classify MNIST data|
+|26|[Activation_function](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L26_activation_function.ipynb)| How to apply different Activation functions in Neural Network|
+
