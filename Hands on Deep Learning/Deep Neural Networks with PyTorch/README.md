@@ -39,4 +39,4 @@
 |35|[MomentumwithPolynomialFunctions](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L35_MomentumwithPolynomialFunctions.ipynb)| Use of momentum in the model optimization|
 |36|[MomentumwithPolynomialFunctions](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L36_NeuralNetworkswithMomentum.ipynb)| Neural networks model optimization with different momentum values|
 |37|[BachNorm](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L37_BachNorm.ipynb)| Comparison of neural networks with and without batch normalization|
-
+|38|[Convolution](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Hands%20on%20Deep%20Learning/Deep%20Neural%20Networks%20with%20PyTorch/L38_Convolution.ipynb)| Convolution on an image and estimate the output size using kernel of K size|
