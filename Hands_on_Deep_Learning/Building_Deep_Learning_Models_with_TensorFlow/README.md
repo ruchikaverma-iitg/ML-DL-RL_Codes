@@ -1,4 +1,4 @@
-## Ipython notebooks of [Building Deep Learning Modeks with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow/home/welcome)
+## Ipython notebooks of [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow/home/welcome)
 
 | # | **File name** |  **Description** |
 | ---------- |--------- | ------------------------------------------------| 
