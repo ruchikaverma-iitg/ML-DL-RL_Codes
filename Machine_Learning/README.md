@@ -5,7 +5,7 @@
 
 | **S.No.**| **File name** | **Section**| **Description** |
 | ----|--------|------|-------------|
-| 1 | [COVID-19_testing](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/Murphy/COVID-19_testing.ipynb) | 2.3| Use Bayes' Rule to compute the probability of a person being infected of COVID-19 given his test results are positive or negative.|
+| 1 | [COVID19_Testing](https://github.com/ruchikaverma-iitg/ML-DL-RL_Codes/blob/master/Machine_Learning/Murphy/COVID-19_testing.ipynb) | 2.3| Use Bayes' Rule to compute the probability of a person being infected of COVID-19 given his test results are positive or negative.|
 
 
 
